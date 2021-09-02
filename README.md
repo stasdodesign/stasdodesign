@@ -1,5 +1,7 @@
 ### Hello World, I'm Stas  👋
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 #### I'm a Product Designer working in Moscow, Russia.
 
 ## I'm a Husband, Father, Developer, Designer, and Illustrator!!
