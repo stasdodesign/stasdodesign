@@ -1,6 +1,6 @@
 ### Hello World, I'm Stas  👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="JPG" src="https://user-images.githubusercontent.com/16655201/131915319-834d0a9d-4cbc-4810-9c5b-d1da85e8a4d4.jpg?raw=true" width="500" height="320" />
 
 #### I'm a Product Designer working in Moscow, Russia.
 
