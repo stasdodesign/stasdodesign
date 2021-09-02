@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World, I'm Stas  👋
 
-<!--
-**stasdodesign/stasdodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Product Designer working in Moscow, Russia.
 
-Here are some ideas to get you started:
+## I'm a Husband, Father, Developer, Designer, and Illustrator!!
+- ✍ You can find my projects here [portfolio]
+- 🌱 I’m currently learning UX Design and English
+- 👯 I’m looking to collaborate on a design case
+- 💬 Ping me about **design**, **branding**, **illustration**, **design thinking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me:
+[<img align="left" alt="stasdodesign | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[website]: https://holistic-developer.com/
+[portfolio]: http://stasdodesign.com/
+[linkedin]: https://linkedin.com/in/stasdodesign
