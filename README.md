@@ -16,5 +16,5 @@
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="stasdodesign | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/IN/stasdodesign/
+[linkedin]: https://www.linkedin.com/in/stasdodesign/
 [portfolio]: https://www.behance.net/stasdodesign
