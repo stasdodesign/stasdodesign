@@ -1,6 +1,6 @@
 ### Hello World, I'm Stas  👋
 
-<img align="right" alt="JPG" src="?raw=true" width="500"  />
+<img align="right" alt="JPG" src=https://github.com/stasdodesign/stasdodesign/blob/main/fast-as-blast.png"?raw=true" width="500"  />
 
 #### I'm a Designer working in Moscow, Russia.
 
