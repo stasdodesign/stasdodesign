@@ -16,6 +16,6 @@
 
  
 <br />
-[website]: https://holistic-developer.com/
+[website]: http://stasdodesign.com/
 [portfolio]: http://stasdodesign.com/
 [linkedin]: https://linkedin.com/in/stasdodesign
