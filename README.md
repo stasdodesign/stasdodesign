@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning UX Design and English
 - 👯 I’m looking to collaborate on a design case
 - 💬 Ping me about **design**, **branding**, **illustration**, **design thinking**
-- ⚙️ I use daily: `.ai`, `.psd`, `indd`, `pdf`, `figma`, `sketch`, `pen` 
+- ⚙️ I use daily: `.ai`, `.psd`, `.indd`, `.pdf`, `.figma`, `.sketch`, `pen` 
 
 
 ### Talk with me, I am kinda awesome:
