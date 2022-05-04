@@ -2,7 +2,7 @@
 
 <img align="right" alt="JPG" src="https://github.com/stasdodesign/stasdodesign/blob/main/fast-as-blast.png?raw=true" width="500"  />
 
-#### I'm a Designer working in Moscow, Russia.
+#### I'm a Designer working in Tbilisi, Georgia.
 
 
 ## I'm a Husband, Father, Developer, Designer, and Illustrator
