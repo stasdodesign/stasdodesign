@@ -16,7 +16,9 @@
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="stasdodesign | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stasdodesign | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stasdodesign | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
+[dribbble]: https://dribbble.com/stasdodesign
 [twitter]: https://www.twitter.com/stasdodesign/
 [linkedin]: https://www.linkedin.com/in/stasdodesign/
 [portfolio]: https://stanislavdovidenko.com/
