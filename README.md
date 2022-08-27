@@ -17,6 +17,6 @@
 [<img align="left" alt="stasdodesign | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stasdodesign | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://www.twitter.com/in/stasdodesign/
+[twitter]: https://www.twitter.com/stasdodesign/
 [linkedin]: https://www.linkedin.com/in/stasdodesign/
 [portfolio]: https://stanislavdovidenko.com/
