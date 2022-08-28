@@ -8,7 +8,7 @@
 ## I'm a Husband, Father, Developer, Designer, and Illustrator
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning UX Design
-- 👯 I’m looking to collaborate on a design system
+- 👯 I’m looking to work on a AI/ML enterprise product
 - 💬 Ping me about **interfaces**, **presentations**, **branding**
 - ⚙️ I use daily: `.figma`, `.ai`, `.psd`, `.indd`, `.sketch`, `pen` 
 
