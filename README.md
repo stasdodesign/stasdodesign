@@ -2,7 +2,7 @@
 
 <img align="right" alt="JPG" src="https://github.com/stasdodesign/stasdodesign/blob/main/design_product.png?raw=true" width="500"  />
 
-#### I'm a Product Designer working in Moscow, Russia.
+#### I'm an Art Director, Product, UI/UX, Presentations Designer.
 
 
 ## I'm a Husband, Father, Developer, Designer, and Illustrator
