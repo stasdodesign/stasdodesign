@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning UX Design
 - 👯 I’m looking to work on a AI/ML enterprise product
 - 💬 Ping me about **interfaces**, **presentations**, **branding**
-- ⚙️ I use daily: `.figma`, `.ai`, `.psd`, `.indd`, `.sketch`, `pen` 
+- ⚙️ I use daily: `brain`, `figma`, `ai`, `chatgpt`, `vscode`, `adobe`, `pen` 
 
 
 ### Talk with me, I am kinda awesome:
