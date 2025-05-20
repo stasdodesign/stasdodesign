@@ -5,7 +5,7 @@
 #### I'm an Art Director, Product, UI/UX, Presentations Designer.
 
 
-## I'm a Designer, Developer and Illustrator, Husband, Father, 
+## I'm a Designer, Developer, Illustrator, Husband and  Father 
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning UX Design
 - 👯 I’m looking to work on a AI/ML enterprise product
